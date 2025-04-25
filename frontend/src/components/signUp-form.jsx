@@ -33,7 +33,7 @@ export function SignUpForm({ className, ...props }) {
           <CardHeader className="text-center">
             <CardTitle className="text-xl">Welcome back</CardTitle>
             <CardDescription className="text-sm text-muted-foreground">
-              Enter your email and password to sign in.
+              Enter your email and password to sign up.
             </CardDescription>
           </CardHeader>
           <CardContent>
